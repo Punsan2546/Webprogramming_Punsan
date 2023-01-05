@@ -1,0 +1,33 @@
+
+body{
+    background-image: url();
+    
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+.imgc{
+    border-radius: 55%;
+    width: 30%;
+    height: 30%;
+    
+}
+h3{
+    text-align: center;
+    font-size: xx-large;
+}
+.history{
+    text-align: center;
+    text-size-adjust: 50px;
+    font-size: 30px;
+}
+.detail{
+    text-align: center;
+    font-size: 30px;
+}
+.misstell{
+    text-align: center;
+    font-size: 30px;
+}
